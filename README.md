@@ -7,7 +7,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/telegram-file-manager-bot.git
+   git clone https://github.com/AlmaziikDev/telegram-file-manager-bot.git
    cd telegram-file-manager-bot
    ```
 
@@ -85,7 +85,7 @@
 Все действия пользователя логируются в файл, указанный в переменной окружения `LOG_FILE`.
 
 ## Лицензия
-Этот проект распространяется под лицензией GNU GPL. Подробнее см. в файле [LICENSE](LICENSE).
+Этот проект распространяется под лицензией GNU GPL-3.0. Подробнее см. в файле [LICENSE](LICENSE).
 
 ---
 
